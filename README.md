@@ -7,5 +7,6 @@ You can close up to two fields at once, the numbers have to add up to the two di
 You loose if it isn't possible anymore to close fields that add up to the right number before everything is closed.
 
 I had the idea to do this while seeing a tiktok of someone playing this game (@joshua_cubed)
+
 I'm a beginner to programming, if you have any improvements ect. let me know!
 -Steffi

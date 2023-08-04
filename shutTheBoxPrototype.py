@@ -1,5 +1,4 @@
-#spiel mit zwei würfeln und tafeln mit 1 - 9 man muss sie weg kriegen, die die man wegtut
-#(eins oder mehr nach jedem wurf) müssen zusammen die würfel augen ergeben
+#Prototype of the game in the console without GUI
 
 import random
 from time import sleep

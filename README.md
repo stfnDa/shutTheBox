@@ -9,4 +9,4 @@ You loose if it isn't possible anymore to close fields that add up to the right 
 I had the idea to do this while seeing a tiktok of someone playing this game (@joshua_cubed)
 
 I'm a beginner to programming, if you have any improvements ect. let me know!
--Steffi
+-Jay
